@@ -21,7 +21,7 @@ Total Cities: 9
 
 **Product Sales by Month:** Tabular breakdown of monthly sales across key electronics and accessories.
 
-Tech Stack
+# Tech Stack
 Power BI / Tableau (preprocessing & dashboard creation)
 
 Excel / CSV (data source)
